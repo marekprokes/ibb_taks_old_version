@@ -1,0 +1,30 @@
+{
+  "name": "ibb_task",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "redis": "2.8.4"
+  },
+  "author": "Marek Prokeš",
+  "engines": {
+    "node": "0.10.28",
+    "npm": "1.4.9"
+  },
+  "description": "Uchovává vybrané HTTPGET parametry",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marekprokes/ibb_task.git"
+  },
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/marekprokes/ibb_task/issues"
+  },
+  "homepage": "https://github.com/marekprokes/ibb_task"
+}
